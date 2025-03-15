@@ -14,20 +14,20 @@ A TUI (Text User Interface) application to track impulses and build better habit
 ### Using pip (Recommended)
 
 ```bash
-pip install impulse-check
+pip install git+https://github.com/lucasbmiguel/impulse-check.git
 ```
 
 ### From source
 
 ```bash
-git clone https://github.com/your-username/impulse-check.git
+git clone https://github.com/lucasbmiguel/impulse-check.git
 cd impulse-check
 pip install -e .
 ```
 
 ### Standalone executable
 
-Download the latest release for your platform from the [Releases page](https://github.com/your-username/impulse-check/releases).
+Download the latest release for your platform from the [Releases page](https://github.com/lucasbmiguel/impulse-check/releases).
 
 ## Usage
 
